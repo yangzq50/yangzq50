@@ -1,4 +1,4 @@
-# Hi, I'm yangzq50 👋
+# Hi, I'm Zhiqiang Yang 👋
 
 Building databases, thinking in abstractions.
 
